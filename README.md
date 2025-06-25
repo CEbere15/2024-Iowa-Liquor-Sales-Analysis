@@ -1,2 +1,20 @@
-# 2024-Iowa-Liquor-Sales-Analysis
-Analysis of the 2024 Iowa Liquor Sales
+# 2024 Iowa Liquor Sales Analysis
+### Table of Contents
+- [Overview](#Overview)
+  - [Summary](#Summary)
+  - [Data Source](#Data-Source)
+  - [Tools](#Tools)
+  - [Data Dictionary](#Data-Dictionary)
+  - [Objectives](#Objectives)
+  - [References](#References)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Descriptive Statistics](#Descriptive-Statistics)
+- [Data Analysis](#data-analysis)
+  - [RFM Analysis](#RFM-Analysis)
+  - [Per Capita Sales Analysis](#Per-Capita-Sales-Analysis)
+  - [Product Performance Analysis](#Product-Performance-Analysis)
+  - [Quarterly Market Basket Analysis](#Quarterly-Market-Basket-Analysis)
+- [Results](#results)
+- [License](#license)
+
