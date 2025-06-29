@@ -46,3 +46,57 @@ This data analysis project aims to analyze and draw insights into the Pennsylvan
 The dataset can be found in Pennsylvania's Open Data Portal, [here](https://data.pa.gov/Government-Efficiency-Citizen-Engagement/2020-General-Election-Mail-Ballot-Requests-Departm/mcba-yywm/about_data).
 
 County, Congressional, State Senate, State House Supplementary: A group of supplementary tables I made for getting further insights on how geographical results from the 2020 General Election could have an effect on the amount of mail ballot requests each party made. 
+
+
+## Exploratory Data Analysis
+
+
+## Data Analysis
+
+### Quarterly Market Basket Analysis
+
+
+#### Quarter 1
+
+##### Results
+
+###### Most Frequent Pairs
+
+
+###### Association Rules
+![Q1 Association Rules](https://github.com/user-attachments/assets/affb436a-f513-4fd1-a88a-2ab53451cbd2)
+
+#### Quarter 2
+##### Results
+###### Most Frequent Pairs
+![Q2 Frequent Pairs](https://github.com/user-attachments/assets/488177bc-3693-48ea-aa9d-fd3e9530a351)
+
+
+###### Association Rules
+![Q2 Association Rules](https://github.com/user-attachments/assets/242f8c38-2d05-48cf-8329-d35d85a0eab4)
+
+
+
+
+#### Quarter 3
+##### Results
+
+###### Most Frequent Pairs
+![Quarter 3 Most Frequent Pairs](https://github.com/user-attachments/assets/0252acc6-0cf4-4607-ba4a-5df56e028cc1)
+
+
+
+###### Association Rules
+![Quarter 3 3D Scatterplot of Association Rules](https://github.com/user-attachments/assets/a8ab1af1-f534-41c7-bc73-bc7559068b3c)
+
+
+#### Quarter 4
+##### Results
+###### Most Frequent Pairs
+![Q4 Frequent Pairs](https://github.com/user-attachments/assets/16a8deca-8784-4430-add6-f4dd2952a84c)
+
+
+###### Association Rules
+![Q4 Association Rules](https://github.com/user-attachments/assets/d04eee27-9872-45f1-b087-bf443f1404ff)
+
+
